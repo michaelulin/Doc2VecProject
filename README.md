@@ -1,6 +1,6 @@
 # Doc2VecProject
 
-Doc2Vec On The WikiVoyage Corpus¶
+Doc2Vec On The WikiVoyage Corpus
 
 
 Motivation: I love to travel, especially to offbeat/out-of-the-way/unusual places
